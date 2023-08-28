@@ -152,26 +152,26 @@ with open('customer_data.pickle', 'rb') as fh:
 
 ## Dataset Information
 
-![](https://github.com/RanjithD18/nn-classification/blob/main/1.png)
+![hi](https://github.com/RanjithD18/nn-classification/blob/main/1.png)
  
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![](https://github.com/RanjithD18/nn-classification/blob/main/2.png)
+![ji](https://github.com/RanjithD18/nn-classification/blob/main/2.png)
 
 ### Classification Report
 
-![](https://github.com/RanjithD18/nn-classification/blob/main/3.png)
+![hj](https://github.com/RanjithD18/nn-classification/blob/main/3.png)
 
 ### Confusion Matrix
 
-![](https://github.com/RanjithD18/nn-classification/blob/main/4.png)
+![h](https://github.com/RanjithD18/nn-classification/blob/main/4.png)
 
 
 ### New Sample Data Prediction
 
-![](https://github.com/RanjithD18/nn-classification/blob/main/5.png)
+![ui](https://github.com/RanjithD18/nn-classification/blob/main/5.png)
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
